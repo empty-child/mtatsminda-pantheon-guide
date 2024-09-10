@@ -1,1 +1,1 @@
-# mtatsminda-pantheon-guide
+# Mtatsminda Pantheon Guide
